@@ -8,12 +8,27 @@ body {
 
 
 h1{
-  font-family: fantasy;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 3em;
-  border-bottom: 0.05em solid pink;
+  
   width: 40%;
   text-align: center;
-  border-right: 0.05em solid pink;
-  box-shadow: 4px 4px 5px #888888;
+  border-right: 0.05em solid #888888;
+  
 margin-top: .1em;
+}
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating){
+background-color: #ab911e;
+color: white;
+padding: 1em 1.5em;
+border-radius: 1.5em;
+}
+
+.navbar-fix{
+  margin-bottom:3em;
+  
+}
+.section{
+  box-shadow: 5px 10px 8px #3c3737;
 }
