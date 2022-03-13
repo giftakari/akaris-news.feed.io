@@ -1,3 +1,18 @@
+# *Akaris News Feed
+
+*This project uses the newsapi.org api to display current news around Australia from diffrent news agencies
+* and links to the relevant news 
+
+
+
+
+<img width="1311" alt="Screen Shot 2022-03-13 at 12 00 20 pm" src="https://user-images.githubusercontent.com/37270379/158041674-29619882-fd19-46cc-9dfd-90bcd82c1aba.png">
+
+
+
+### *Live Project  https://gracious-blackwell-91b8ae.netlify.app
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
