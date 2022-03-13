@@ -19,10 +19,10 @@ margin-top: .1em;
 }
 
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating){
-background-color: #ab911e;
+background-color:  #18246e;
 color: white;
-padding: 1em 1.5em;
-border-radius: 1.5em;
+padding: 1rem 1.5rem;
+border-radius: 1.5rem;
 }
 
 .navbar-fix{
@@ -32,3 +32,10 @@ border-radius: 1.5em;
 .section{
   box-shadow: 5px 10px 8px #3c3737;
 }
+
+
+
+.indigo.lighten-4 {
+  background-color: #18246e !important;
+}
+
